@@ -1,0 +1,12 @@
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\bin\Release\netcoreapp3.1\Helpful Maths.exe
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\bin\Release\netcoreapp3.1\Helpful Maths.deps.json
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\bin\Release\netcoreapp3.1\Helpful Maths.runtimeconfig.json
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\bin\Release\netcoreapp3.1\Helpful Maths.runtimeconfig.dev.json
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\bin\Release\netcoreapp3.1\Helpful Maths.dll
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\bin\Release\netcoreapp3.1\Helpful Maths.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\obj\Release\netcoreapp3.1\Helpful Maths.AssemblyInfoInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\obj\Release\netcoreapp3.1\Helpful Maths.AssemblyInfo.cs
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\obj\Release\netcoreapp3.1\Helpful Maths.csproj.CoreCompileInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\obj\Release\netcoreapp3.1\Helpful Maths.dll
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\obj\Release\netcoreapp3.1\Helpful Maths.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\Helpful Maths\obj\Release\netcoreapp3.1\Helpful Maths.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\bin\Debug\netcoreapp3.1\Word Capitalization.exe
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\bin\Debug\netcoreapp3.1\Word Capitalization.deps.json
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\bin\Debug\netcoreapp3.1\Word Capitalization.runtimeconfig.json
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\bin\Debug\netcoreapp3.1\Word Capitalization.runtimeconfig.dev.json
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\bin\Debug\netcoreapp3.1\Word Capitalization.dll
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\bin\Debug\netcoreapp3.1\Word Capitalization.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\obj\Debug\netcoreapp3.1\Word Capitalization.csprojAssemblyReference.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\obj\Debug\netcoreapp3.1\Word Capitalization.AssemblyInfoInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\obj\Debug\netcoreapp3.1\Word Capitalization.AssemblyInfo.cs
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\obj\Debug\netcoreapp3.1\Word Capitalization.csproj.CoreCompileInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\obj\Debug\netcoreapp3.1\Word Capitalization.dll
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\obj\Debug\netcoreapp3.1\Word Capitalization.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\Word Capitalization\obj\Debug\netcoreapp3.1\Word Capitalization.genruntimeconfig.cache

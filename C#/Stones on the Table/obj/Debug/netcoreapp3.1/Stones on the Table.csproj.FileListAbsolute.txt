@@ -1,0 +1,13 @@
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\bin\Debug\netcoreapp3.1\Stones on the Table.exe
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\bin\Debug\netcoreapp3.1\Stones on the Table.deps.json
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\bin\Debug\netcoreapp3.1\Stones on the Table.runtimeconfig.json
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\bin\Debug\netcoreapp3.1\Stones on the Table.runtimeconfig.dev.json
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\bin\Debug\netcoreapp3.1\Stones on the Table.dll
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\bin\Debug\netcoreapp3.1\Stones on the Table.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\obj\Debug\netcoreapp3.1\Stones on the Table.csprojAssemblyReference.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\obj\Debug\netcoreapp3.1\Stones on the Table.AssemblyInfoInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\obj\Debug\netcoreapp3.1\Stones on the Table.AssemblyInfo.cs
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\obj\Debug\netcoreapp3.1\Stones on the Table.csproj.CoreCompileInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\obj\Debug\netcoreapp3.1\Stones on the Table.dll
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\obj\Debug\netcoreapp3.1\Stones on the Table.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\Stones on the Table\obj\Debug\netcoreapp3.1\Stones on the Table.genruntimeconfig.cache

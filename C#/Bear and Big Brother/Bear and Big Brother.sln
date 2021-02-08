@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bear and Big Brother", "Bear and Big Brother.csproj", "{EF508106-FA75-4394-86BE-52529CECBD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF508106-FA75-4394-86BE-52529CECBD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF508106-FA75-4394-86BE-52529CECBD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF508106-FA75-4394-86BE-52529CECBD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF508106-FA75-4394-86BE-52529CECBD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC412F18-D2D7-4FD6-ACDE-5BCB4B991E6D}
+	EndGlobalSection
+EndGlobal

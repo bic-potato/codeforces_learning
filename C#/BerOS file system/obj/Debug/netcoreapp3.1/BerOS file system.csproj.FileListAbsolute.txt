@@ -1,0 +1,12 @@
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\bin\Debug\netcoreapp3.1\BerOS file system.exe
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\bin\Debug\netcoreapp3.1\BerOS file system.deps.json
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\bin\Debug\netcoreapp3.1\BerOS file system.runtimeconfig.json
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\bin\Debug\netcoreapp3.1\BerOS file system.runtimeconfig.dev.json
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\bin\Debug\netcoreapp3.1\BerOS file system.dll
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\bin\Debug\netcoreapp3.1\BerOS file system.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\obj\Debug\netcoreapp3.1\BerOS file system.AssemblyInfoInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\obj\Debug\netcoreapp3.1\BerOS file system.AssemblyInfo.cs
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\obj\Debug\netcoreapp3.1\BerOS file system.csproj.CoreCompileInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\obj\Debug\netcoreapp3.1\BerOS file system.dll
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\obj\Debug\netcoreapp3.1\BerOS file system.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\BerOS file system\obj\Debug\netcoreapp3.1\BerOS file system.genruntimeconfig.cache

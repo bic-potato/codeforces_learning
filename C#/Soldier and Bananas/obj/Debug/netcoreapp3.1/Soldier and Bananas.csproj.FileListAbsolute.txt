@@ -1,0 +1,12 @@
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.exe
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.deps.json
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.runtimeconfig.json
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.runtimeconfig.dev.json
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.dll
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.AssemblyInfoInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.AssemblyInfo.cs
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.csproj.CoreCompileInputs.cache
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.dll
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.pdb
+D:\Documents\IntroductionToComputing\exercises\C#\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.genruntimeconfig.cache
