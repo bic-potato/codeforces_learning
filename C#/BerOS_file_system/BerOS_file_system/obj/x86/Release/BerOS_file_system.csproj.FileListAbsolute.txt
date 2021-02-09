@@ -1,0 +1,3 @@
+/home/zuoxichen/桌面/exercises/C#/BerOS_file_system/BerOS_file_system/bin/Release/BerOS_file_system.exe
+/home/zuoxichen/桌面/exercises/C#/BerOS_file_system/BerOS_file_system/obj/x86/Release/BerOS_file_system.csproj.CoreCompileInputs.cache
+/home/zuoxichen/桌面/exercises/C#/BerOS_file_system/BerOS_file_system/obj/x86/Release/BerOS_file_system.exe
